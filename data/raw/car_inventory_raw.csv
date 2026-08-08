@@ -1,0 +1,26 @@
+record_id,make,model,year,price,mileage,condition,fuel_type,transmission,location,date_listed
+001,Toyota,camry,2022,"$24,500","31,200 mi",Used,gas,Automatic,"Brooklyn, NY",08/01/2026
+002,honda,CIVIC,2021,"$21,900","42,850",used,Gasoline,auto,"Queens NY",2026-08-01
+003,Ford,F-150,2023,38900,"18,100 miles",Pre Owned,gasoline,Automatic,"Bronx, NY",08-02-2026
+004,Toyota,RAV 4,2020,"$22,750","55,600",USED,Hybrid,CVT,"Brooklyn NY",2026/08/02
+005,BMW,X3,2022,"$39,995","27,400 mi",Certified,Gas,Auto,"Manhattan, NY",Aug 3 2026
+006,Mercedes-Benz,c 300,2021,36500,"33,750",pre-owned,gasoline,automatic,"Staten Island NY",08/03/26
+007,Nissan,ROGUE,2020,"$19,800","61,200 miles",Used,Gas,CVT,"Queens, NY",2026-08-04
+008,Hyundai,Tucson,2022,"$26,400","29,900",used,gas,Automatic,"Brooklyn,NY",08/04/2026
+009,Tesla,Model 3,2023,"$34,750","14,500 mi",Pre Owned,Electric,Automatic,"Manhattan NY",2026/08/05
+010,Kia,Sportage,2021,23900,"38,100",USED,Gasoline,auto,"Bronx NY",Aug 5 2026
+011,Toyota,Camry,2022,"$24,500","31,200 mi",Used,gas,Automatic,"Brooklyn, NY",08/01/2026
+012,Chevrolet,Equinox,2019,"$16,950","72,400 miles",used,gasoline,Automatic,"Queens NY",2026-08-05
+013,Subaru,Outback,2022,"$29,600","34,300",Certified,Gas,CVT,"Brooklyn, NY",08-06-2026
+014,Lexus,RX 350,2021,"$37,800","40,250 mi",Pre Owned,Gasoline,Automatic,"Manhattan,NY",2026/08/06
+015,Volkswagen,Tiguan,2020,"$20,500","58,900",USED,gas,Auto,"Staten Island, NY",Aug 6 2026
+016,Honda,Accord,2023,"$30,250","12,800 miles",Used,Gasoline,Automatic,"Queens, NY",08/07/26
+017,Mazda,CX-5,2022,"$27,100","26,700",used,gas,auto,"Brooklyn NY",2026-08-07
+018,Audi,Q5,2021,"$35,900","36,500 mi",Certified,Gasoline,Automatic,"Manhattan NY",08/07/2026
+019,Ford,Escape,2020,18400,"64,800 miles",Pre Owned,gas,CVT,"Bronx, NY",2026/08/08
+020,Tesla,Model Y,2022,"$41,200","24,600",USED,electric,Automatic,"Queens NY",Aug 8 2026
+021,Jeep,Grand Cherokee,2021,"$32,750","45,100 mi",used,Gas,auto,"Staten Island NY",08-08-2026
+022,Toyota,Sienna,2023,"$43,500","19,300",Certified,Hybrid,CVT,"Brooklyn, NY",2026/08/08
+023,Hyundai,Elantra,2020,"$17,200","59,750 miles",Pre Owned,gasoline,Automatic,"Queens,NY",08/08/26
+024,BMW,330i,2022,"$38,400","28,600",USED,Gas,auto,"Manhattan, NY",2026-08-08
+025,Nissan,Altima,2021,"$22,300","41,900 mi",used,gasoline,CVT,"Bronx NY",Aug 8 2026
