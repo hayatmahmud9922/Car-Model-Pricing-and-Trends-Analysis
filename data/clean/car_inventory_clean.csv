@@ -1,0 +1,25 @@
+record_id,make,model,year,price_usd,mileage,condition,fuel_type,transmission,borough,state,date_listed
+001,Toyota,Camry,2022,24500,31200,Used,Gasoline,Automatic,Brooklyn,NY,2026-08-01
+002,Honda,Civic,2021,21900,42850,Used,Gasoline,Automatic,Queens,NY,2026-08-01
+003,Ford,F-150,2023,38900,18100,Used,Gasoline,Automatic,Bronx,NY,2026-08-02
+004,Toyota,RAV4,2020,22750,55600,Used,Hybrid,Cvt,Brooklyn,NY,2026-08-02
+005,BMW,X3,2022,39995,27400,Certified,Gasoline,Automatic,Manhattan,NY,2026-08-03
+006,Mercedes-Benz,C 300,2021,36500,33750,Used,Gasoline,Automatic,Staten Island,NY,2026-08-03
+007,Nissan,Rogue,2020,19800,61200,Used,Gasoline,Cvt,Queens,NY,2026-08-04
+008,Hyundai,Tucson,2022,26400,29900,Used,Gasoline,Automatic,Brooklyn,NY,2026-08-04
+009,Tesla,Model 3,2023,34750,14500,Used,Electric,Automatic,Manhattan,NY,2026-08-05
+010,Kia,Sportage,2021,23900,38100,Used,Gasoline,Automatic,Bronx,NY,2026-08-05
+012,Chevrolet,Equinox,2019,16950,72400,Used,Gasoline,Automatic,Queens,NY,2026-08-05
+013,Subaru,Outback,2022,29600,34300,Certified,Gasoline,Cvt,Brooklyn,NY,2026-08-06
+014,Lexus,Rx 350,2021,37800,40250,Used,Gasoline,Automatic,Manhattan,NY,2026-08-06
+015,Volkswagen,Tiguan,2020,20500,58900,Used,Gasoline,Automatic,Staten Island,NY,2026-08-06
+016,Honda,Accord,2023,30250,12800,Used,Gasoline,Automatic,Queens,NY,2026-08-07
+017,Mazda,Cx-5,2022,27100,26700,Used,Gasoline,Automatic,Brooklyn,NY,2026-08-07
+018,Audi,Q5,2021,35900,36500,Certified,Gasoline,Automatic,Manhattan,NY,2026-08-07
+019,Ford,Escape,2020,18400,64800,Used,Gasoline,Cvt,Bronx,NY,2026-08-08
+020,Tesla,Model Y,2022,41200,24600,Used,Electric,Automatic,Queens,NY,2026-08-08
+021,Jeep,Grand Cherokee,2021,32750,45100,Used,Gasoline,Automatic,Staten Island,NY,2026-08-08
+022,Toyota,Sienna,2023,43500,19300,Certified,Hybrid,Cvt,Brooklyn,NY,2026-08-08
+023,Hyundai,Elantra,2020,17200,59750,Used,Gasoline,Automatic,Queens,NY,2026-08-08
+024,BMW,330I,2022,38400,28600,Used,Gasoline,Automatic,Manhattan,NY,2026-08-08
+025,Nissan,Altima,2021,22300,41900,Used,Gasoline,Cvt,Bronx,NY,2026-08-08
